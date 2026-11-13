@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="210" viewBox="0 0 200 210">
+  <style>.gaze{animation:look-around 9s ease-in-out infinite}@keyframes look-around{0%,12%,94%,100%{transform:translate(-5px,0)}25%,40%{transform:translate(-21px,-2px)}57%,74%{transform:translate(0,-1px)}}@media(prefers-reduced-motion:reduce){.gaze{animation:none}}</style>
+  <rect x="3" y="3" width="194" height="204" rx="32" fill="#FFAA44"/>
+  <g fill="none" stroke="#151511" stroke-width="3" stroke-linecap="round">
+    <path d="M50 58q15-12 31-4M119 54q16-9 31 4"/>
+  </g>
+  <ellipse cx="73" cy="103" rx="31" ry="38" fill="#fff"/>
+  <ellipse cx="127" cy="103" rx="31" ry="38" fill="#fff"/>
+  <g class="gaze">
+  <ellipse cx="83" cy="108" rx="14" ry="16" fill="#080808"/>
+  <ellipse cx="137" cy="108" rx="14" ry="16" fill="#080808"/>
+  <circle cx="88" cy="102" r="4" fill="#fff"/>
+  <circle cx="142" cy="102" r="4" fill="#fff"/>
+  </g>
+  <g fill="none" stroke="#151511" stroke-width="3" stroke-linecap="round">
+    <path d="M102 126c-22-5-26 15-7 17h12"/>
+    <path d="M94 155q12 8 24-2m-3-3 5 3"/>
+  </g>
+</svg>
